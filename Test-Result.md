@@ -94,6 +94,7 @@ Sau đó bạn tạo thêm 2 file migration lần lượt là 4,5. Lúc này b�
 
 **Câu 6**. Hãy cho biết sự khác nhau giữa migrate:refresh và migrate:reset trong Laravel
 ​
+
 Trả lời
 
 - migrate:refresh: xóa dữ liệu nhưng không xóa bảng
@@ -125,6 +126,7 @@ Nếu database có 10 lessons thì nó sẽ truy vấn tới database tổng c�
 
 Trong đó có một truy vấn là lấy ra tất cả courses, còn lại là name tương ứng của lesson.
 ​
+
 **Câu 8**. Hãy kể tên một số ORM Relationship trong Laravel mà bạn đã sử dụng (tối thiểu 5) kèm giải thích phía sau
 
 ## 1. One to One
